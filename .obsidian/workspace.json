@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test2.md",
+                "file": "awk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test2"
+              "title": "awk"
             }
           }
         ],
@@ -200,10 +200,12 @@
   },
   "active": "5ce823db891ffe6e",
   "lastOpenFiles": [
-    "sed.md",
-    "test2.md",
-    "awk.md",
     "Planning.md",
-    "test.md"
+    "test2.md",
+    "test3.md",
+    "Untitled.base",
+    "test.md",
+    "awk.md",
+    "sed.md"
   ]
 }

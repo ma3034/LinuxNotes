@@ -1,4 +1,4 @@
 - [ ] Learn vi
 - [ ] Learn awk
-- [ ] Learn awk
+- [x] Learn awk
 
